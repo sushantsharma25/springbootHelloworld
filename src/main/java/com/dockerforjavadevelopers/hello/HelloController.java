@@ -9,7 +9,7 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Hi, Hola, Hallo, Hej all are same!!!!\n";
+        return "I am using SSH keys for deploying images from Jenkins in Kubernetes cluster!!!!\n";
     }
     
 }
